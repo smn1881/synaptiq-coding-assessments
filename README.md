@@ -1,6 +1,8 @@
-# Skills Assessments 
-This project contains an assortment of coding exercises to assess candidates' skills in the various tools and techniques we use every day to build intelligent products. A readme in the root of each child folder provides detailed instructions on how to perform and submit the assessment. 
+# Coding Assessments
 
-- [React](https://github.com/FocusedDiversity/synaptiq-skilltests/tree/main/react)
-- [Python (Coming Soon!)](https://github.com/FocusedDiversity/synaptiq-skilltests/tree/main)
+This project contains an assortment of coding exercises to assess candidates' skills in the various tools and techniques we use every day to build intelligent products. A README in the root of each child folder provides detailed instructions on how to perform and submit the assessment.
 
+Please create a private repo in your space from this template. Create a feature branch and open a pull request against your `main` branch to showcase your changes.
+
+- [React](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main/react)
+- [Python (Coming Soon!)](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main)
