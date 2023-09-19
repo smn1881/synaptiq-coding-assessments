@@ -4,5 +4,5 @@ This project contains an assortment of coding exercises to assess candidates' sk
 
 Please create a private repo in your space from this template. Create a feature branch and open a pull request against your `main` branch to showcase your changes.
 
-- [React](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main/react)
-- [Python (Coming Soon!)](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main)
+- [FrontEnd](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main/react)
+- [FullStack](https://github.com/FocusedDiversity/synaptiq-coding-assessments/tree/main/fullstack)
