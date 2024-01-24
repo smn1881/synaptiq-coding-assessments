@@ -5,7 +5,11 @@
 Create a new "combined date" control as described in the shopify polaris "patterns"
 documentation at https://polaris.shopify.com/patterns/date-picking/single-date
 
-    - You should build off the framework and tools in this repo, namely:
+    - You should fork this repository and open a pull request against it with your changes.
+    - Your code should compile and test cleanly via github actions. 
+        - Opening a pull request will verify this
+        - You can also use `act -C..` from https://github.com/nektos/act to run locally
+    -You should build off the framework and tools in this repo, namely:
         - yarn
         - storybook
         - next.js
@@ -20,8 +24,4 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
     - Your should add (and document) the commands used to run your tests
     - Your component should meet the usability guidelines from polaris
     - You should update this readme explaining what usability features and capabilities you have implemented
-    - You should fork this repository and open a pull request against it with your changes.
-    - Your code should compile and test cleanly via github actions. 
-        - Opening a pull request will verify this
-        - You can also use `act -C..` from https://github.com/nektos/act to run locally
     - You should be prepared to discuss your changes in detail and explain why they are great.
