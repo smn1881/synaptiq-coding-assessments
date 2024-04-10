@@ -73,7 +73,6 @@ export default function CombinedDate() {
                 {startDateSelected && <div className='my-2 font-medium'>Dates after {startDateSelected} {endDateSelected ? `and before ${endDateSelected}` : ''}</div>}
                 {testDates.map((date) => {
                     if (date > startDateSelected && ((endDateSelected && endDateSelected > date) || !showEndDate)) {
-                        console.log(endDateSelected, date)
                         return <div key={date}>{new Date(date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</div>
                     };
                 })}  

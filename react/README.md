@@ -25,3 +25,16 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
     - Your component should meet the usability guidelines from polaris
     - You should update this readme explaining what usability features and capabilities you have implemented
     - You should be prepared to discuss your changes in detail and explain why they are great.
+
+## Project Details
+
+Project example page can be seen by running `yarn dev` on http://localhost:3000/combinedDate
+ 
+Implemented single-date pattern with option to use start and/or end date.
+Example page has test data that can be filtered by entering a start date. 
+You can enter an optional end date to filter the data by selecting add end 
+date. Dates can be reset by selecting the reset button.
+
+Story component for DateInput can be seen in http://localhost:6006/?path=/docs/example-datainput--docs 
+
+Initial testing for DateInput can be tested by running `yarn test`.
